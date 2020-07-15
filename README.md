@@ -7,7 +7,6 @@ I'm Eyder Concha, I'm a software engineering student 👨‍💻 who is passiona
 - 🔭 I’m currently working on React and Vue
 - 🌱 I’m currently learning about JAMStack 
 - 💬 Ask me about: tech, memes, books
-- 😄 Pronouns: he/him
 -  ⚡ Languages: Javascript, Java, C++, Dart
 
 
